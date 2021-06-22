@@ -1,0 +1,12 @@
+.ahorcado-img{
+    height: 400px;
+}
+button{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.botones{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
